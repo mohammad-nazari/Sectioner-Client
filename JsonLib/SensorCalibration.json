@@ -1,0 +1,32 @@
+{
+	"SensorCalibration" : [{
+			"Name" : "TEMPERATURE",
+			"Minimum" : "-50",
+			"Maximum" : "150"
+		}, {
+			"Name" : "HUMIDITY",
+			"Minimum" : "0",
+			"Maximum" : "100"
+		}, {
+			"Name" : "ACVOLTAGE",
+			"Minimum" : "0",
+			"Maximum" : "230"
+		}, {
+			"Name" : "ACAMPERE",
+			"Minimum" : "0",
+			"Maximum" : "15"
+		}, {
+			"Name" : "DCVOLTAGE",
+			"Minimum" : "12",
+			"Maximum" : "60"
+		}, {
+			"Name" : "DCAMPERE",
+			"Minimum" : "0",
+			"Maximum" : "20"
+		}, {
+			"Name" : "COSQ",
+			"Minimum" : "0",
+			"Maximum" : "1"
+		}
+	]
+}
